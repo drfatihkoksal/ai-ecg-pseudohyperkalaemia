@@ -2,8 +2,10 @@ cff-version: 1.2.0
 message: "If you use this code, please cite it as below."
 title: "AI-ECG potassium to triage haemolysed hyperkalaemia: analysis code"
 authors:
-  - family-names: "Köksal"
+  - family-names: "Koksal"
     given-names: "Fatih"
+    orcid: "https://orcid.org/0000-0002-4197-4683"
+    affiliation: "University of Health Sciences Türkiye, Bursa Yuksek Ihtisas Training and Research Hospital"
 license: MIT
 repository-code: "https://github.com/drfatihkoksal/ai-ecg-pseudohyperkalaemia"
 doi: "10.5281/zenodo.23143115"

@@ -2,8 +2,21 @@
   "title": "AI-ECG potassium to triage haemolysed hyperkalaemia: analysis code",
   "upload_type": "software",
   "description": "Analysis code for an electrocardiogram-based deep learning potassium estimate to distinguish haemolytic pseudohyperkalaemia from true hyperkalaemia (development on HEEDB, external validation on MIMIC-IV). Code only: no patient data, record-level derivatives or model weights are included.",
-  "creators": [{"name": "Köksal, Fatih"}],
+  "creators": [
+    {
+      "name": "Koksal, Fatih",
+      "orcid": "0000-0002-4197-4683",
+      "affiliation": "University of Health Sciences Türkiye, Bursa Yuksek Ihtisas Training and Research Hospital"
+    }
+  ],
   "license": "MIT",
   "access_right": "open",
-  "keywords": ["electrocardiography", "hyperkalemia", "pseudohyperkalemia", "hemolysis", "deep learning", "emergency medicine"]
+  "keywords": [
+    "electrocardiography",
+    "hyperkalemia",
+    "pseudohyperkalemia",
+    "hemolysis",
+    "deep learning",
+    "emergency medicine"
+  ]
 }

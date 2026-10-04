@@ -96,7 +96,7 @@ can be shared only with BDSP approval.
 
 ## Citation
 
-Code: Köksal F. *AI-ECG potassium to triage haemolysed hyperkalaemia: analysis code* (v1.0.0). Zenodo; 2026.
+Code: Koksal F. *AI-ECG potassium to triage haemolysed hyperkalaemia: analysis code* (v1.0.0). Zenodo; 2026.
 doi:10.5281/zenodo.23143115. See also `CITATION.cff`. The article citation will be added on publication.
 
 ## License
