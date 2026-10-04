@@ -1,5 +1,7 @@
 # AI-ECG potassium to triage haemolysed hyperkalaemia
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23143115.svg)](https://doi.org/10.5281/zenodo.23143115)
+
 Analysis code for the study *An electrocardiogram-based deep learning potassium estimate to
 distinguish haemolytic pseudohyperkalaemia from true hyperkalaemia* (development on HEEDB,
 external validation on MIMIC-IV).
@@ -94,7 +96,8 @@ can be shared only with BDSP approval.
 
 ## Citation
 
-See `CITATION.cff`; the archived release DOI (Zenodo) and the article citation will be added here.
+Code: Köksal F. *AI-ECG potassium to triage haemolysed hyperkalaemia: analysis code* (v1.0.0). Zenodo; 2026.
+doi:10.5281/zenodo.23143115. See also `CITATION.cff`. The article citation will be added on publication.
 
 ## License
 

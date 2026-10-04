@@ -6,6 +6,7 @@ authors:
     given-names: "Fatih"
 license: MIT
 repository-code: "https://github.com/drfatihkoksal/ai-ecg-pseudohyperkalaemia"
+doi: "10.5281/zenodo.23143115"
 version: "1.0.0"
 date-released: "2026-10-04"
 keywords: [electrocardiography, hyperkalemia, pseudohyperkalemia, hemolysis, deep learning, emergency medicine]
