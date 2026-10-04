@@ -1,0 +1,10 @@
+# versions used for the published analysis (Python 3.13)
+numpy==2.4.6
+pandas==2.3.3
+pyarrow==24.0.0
+duckdb==1.5.4
+scipy==1.17.1
+scikit-learn==1.9.0
+wfdb==4.3.1
+matplotlib==3.10.9
+torch==2.11.0   # CUDA 12.8 build used; install the wheel matching your GPU driver

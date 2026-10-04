@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "AI-ECG potassium to triage haemolysed hyperkalaemia: analysis code"
+authors:
+  - family-names: "Köksal"
+    given-names: "Fatih"
+license: MIT
+repository-code: "https://github.com/drfatihkoksal/ai-ecg-pseudohyperkalaemia"
+version: "1.0.0"
+date-released: "2026-10-04"
+keywords: [electrocardiography, hyperkalemia, pseudohyperkalemia, hemolysis, deep learning, emergency medicine]

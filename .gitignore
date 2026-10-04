@@ -1,0 +1,20 @@
+# record-level data and derivatives: never commit (PhysioNet / BDSP data use agreements)
+data/
+outputs/
+*.parquet
+*.npy
+*.npz
+*.pt
+*.pth
+*.ckpt
+*.csv
+*.csv.gz
+*.mat
+*.hea
+*.dat
+*.log
+
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
