@@ -98,4 +98,5 @@ See `CITATION.cff`; the archived release DOI (Zenodo) and the article citation w
 
 ## License
 
-MIT (code only; see `LICENSE`).
+MIT (see `LICENSE`). The license covers the code only; it grants no rights to MIMIC-IV,
+MIMIC-IV-ECG or HEEDB data, which remain governed by their own data use agreements.
